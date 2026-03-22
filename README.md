@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ex04 Simple Calculator - React Project
 ## Date:
 
@@ -128,28 +127,10 @@ const Calculator = () => {
 export default Calculator;
 ```
 ## OUTPUT
-![alt text](ex4-1.png)
-![alt text](ex4-2.png)
+<img width="1918" height="1198" alt="ex4-1" src="https://github.com/user-attachments/assets/5ba65cd8-fed9-42a3-8d36-e780e8330011" />
+
+<img width="1919" height="1199" alt="ex4-2" src="https://github.com/user-attachments/assets/9e6c2bc5-22ec-4347-8138-94a0ecc4a403" />
+
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
-=======
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> f2acfae (calculator)
